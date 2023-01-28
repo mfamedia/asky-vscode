@@ -1,0 +1,21 @@
+{
+    "name": "asky-vscode",
+    "displayName": "asky.vscode",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Asky Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Asky Dark-color-theme.json"
+            }
+        ]
+    }
+}
